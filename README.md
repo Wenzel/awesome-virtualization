@@ -27,3 +27,7 @@ A curated list of awesome resources about virtualization.
 
 - [VirtualBox website](https://www.virtualbox.org/)
 - [VirtualBox documentation](https://www.virtualbox.org/wiki/Technical_documentation)
+
+## Hyper-V
+
+- [Hyper-V technet](https://technet.microsoft.com/en-us/library/mt169373(v=ws.11).aspx)
