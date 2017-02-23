@@ -22,3 +22,8 @@ A curated list of awesome resources about virtualization.
 ## Xen
 
 - [Xen website](https://www.xenproject.org/)
+
+## VirtualBox
+
+- [VirtualBox website](https://www.virtualbox.org/)
+- [VirtualBox documentation](https://www.virtualbox.org/wiki/Technical_documentation)
