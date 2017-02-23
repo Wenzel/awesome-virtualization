@@ -18,3 +18,7 @@ A curated list of awesome resources about virtualization.
 - [KVM website](http://www.linux-kvm.org/page/Main_Page)
 - [KVM forum](http://www.linux-kvm.org/page/KVM_Forum)
 - [set of KVM documentations](http://www.linux-kvm.org/page/Documents)
+
+## Xen
+
+- [Xen website](https://www.xenproject.org/)
