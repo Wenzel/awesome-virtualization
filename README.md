@@ -12,3 +12,9 @@ A curated list of awesome resources about virtualization.
 - [Bareflank](https://github.com/Bareflank/hypervisor)
 - [SimpleVisor](https://github.com/ionescu007/SimpleVisor)
 - [HOSS](http://www.cs.unc.edu/~porter/hoss/)
+
+## KVM
+
+- [KVM website](http://www.linux-kvm.org/page/Main_Page)
+- [KVM forum](http://www.linux-kvm.org/page/KVM_Forum)
+- [set of KVM documentations](http://www.linux-kvm.org/page/Documents)
