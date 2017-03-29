@@ -13,7 +13,7 @@ A curated list of awesome resources about virtualization.
 
 ## Books
 
-- [Intel® 64 and IA-32 Architectures Developer's Manual: Vol. 3B](https://www-ssl.intel.com/content/www/us/en/architecture-and-technology/64-ia-32-architectures-software-developer-vol-3b-part-2-manual.html)
+- [Intel® 64 and IA-32 architectures software developer's manual volume 3C](https://software.intel.com/sites/default/files/managed/7c/f1/326019-sdm-vol-3c.pdf)
 - [Virtual Machines: Versatile Platforms for Systems and Processes](https://www.amazon.com/Virtual-Machines-Versatile-Platforms-Architecture/dp/1558609105)
 
 ## Courses
