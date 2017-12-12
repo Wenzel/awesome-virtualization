@@ -15,10 +15,25 @@ A curated list of awesome resources about virtualization.
 
 - [Intel® 64 and IA-32 architectures software developer's manual volume 3C](https://software.intel.com/sites/default/files/managed/7c/f1/326019-sdm-vol-3c.pdf)
 - [Virtual Machines: Versatile Platforms for Systems and Processes](https://www.amazon.com/Virtual-Machines-Versatile-Platforms-Architecture/dp/1558609105)
+- [Mastering KVM Virtualization](https://www.amazon.com/Mastering-Virtualization-Humble-Devassy-Chirammal/dp/1784399051)
 
 ## Courses
 
 - [Memory Virtualization playlist by Udacity](https://www.youtube.com/watch?v=-y9J78wSJHY&list=PLGvfHSgImk4aP4moOrG-KEqVO8gRFh4rb&index=122)
+- [Full Virtualization by Geoffrey Challen](https://www.youtube.com/watch?v=2moUsgMOie4)
+- [Xen and the Art of Virtualization by Geoffrey Challen](https://www.youtube.com/watch?v=fYH8A3RjPwY)
+- [Container Virtualization by Geoffrey Challen](https://www.youtube.com/watch?v=nanHh0t4ssE)
+
+## Papers
+- A comparison of software and hardware techniques for x86 virtualization by K. Adams and O. Agesen (2006)
+- Bringing Virtualization to the x86 Architecture with the Original VMware Workstation by Edouard Bugnion, Scott Devine, Mendel Rosenblum, Jeremy Sugerman, And Edward Y. Wang
+- The evolution of an x86 virtual machine monitor by O. Agesen, A. Garthwaite, J. Sheldon, and P. Subrahmanyam
+- Formal Requirements for Virtualizable Third Generation Architectures by Gerald J. Popek & Robert P. Goldberg
+- Modern Operating System 4th Edition (Chapter: Virtualization and the cloud) by Andrew Tanembaum
+- Xen and the Art of Virtualization by Paul Barham, Boris Dragovic, Keir Fraser, Steven Hand, Tim Harris, Alex Ho, Rolf Neugebauer, Ian Pratt, Andrew Warfield
+- Understanding Full Virtualization, Paravirtualization and Hardware Assisted Virtualization by VMWare
+- Dynamic Binary Translation from x86-32 code to x86-64 code for Virtualization by Yu-hsin Chen.
+
 
 ## Projects
 
