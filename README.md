@@ -23,6 +23,7 @@ A curated list of awesome resources about virtualization.
 - [Full Virtualization by Geoffrey Challen](https://www.youtube.com/watch?v=2moUsgMOie4)
 - [Xen and the Art of Virtualization by Geoffrey Challen](https://www.youtube.com/watch?v=fYH8A3RjPwY)
 - [Container Virtualization by Geoffrey Challen](https://www.youtube.com/watch?v=nanHh0t4ssE)
+- [Open Security Training Advanced VT-x course] (http://opensecuritytraining.info/AdvancedX86-VTX.html)
 
 ## Papers
 - A comparison of software and hardware techniques for x86 virtualization by K. Adams and O. Agesen (2006)
