@@ -62,3 +62,35 @@ A curated list of awesome resources about virtualization.
 ## Hyper-V
 
 - [Hyper-V technet](https://technet.microsoft.com/en-us/library/mt169373(v=ws.11).aspx)
+
+
+## Virtual Machine Introspection
+
+- [Zero-Footprint Guest Memory Introspection from Xen by Mihai Dontu](https://www.youtube.com/watch?v=GGjPU6jHi_w) - [[Slides]](https://www.slideshare.net/xen_com_mgr/zero-footprint-guest-memory-introspection-from-xen) [[Update]](http://events17.linuxfoundation.org/sites/events/files/slides/Zero-Footprint%20Guest%20Memory%20Introspection%20with%20Xen.pdf)
+- [Hypervisor memory introspection at the next level](https://www.usenix.org/sites/default/files/conference/protected-files/atc15_slides_lutas.pdf)
+- [Bringing Commercial Grade Virtual Machine Introspection to KVM by Mihai Donțu](https://www.youtube.com/watch?v=sUPSogabV-o) - [[Slides]](http://events17.linuxfoundation.org/sites/events/files/slides/Zero-Footprint%20Guest%20Memory%20Introspection%20with%20Xen.pdf)
+- [Hypervisor-based, hardware-assisted system monitoring](https://www.youtube.com/watch?v=yTAVS0-qJRU)
+- [Virtual Machine Introspection to Detect and Protect](https://www.youtube.com/watch?v=EZPXy314q3E)
+- [Hypervisor Memory Forensics](http://www.s3.eurecom.fr/docs/raid13_graziano.pdf) - [[Slides]](http://s3.eurecom.fr/~emdel/talks/grazianolanzi_hitb.pdf)
+
+## Attacking Hypervisors
+
+- [Unboxing your virtualBox](https://www.youtube.com/watch?v=fFaWE3jt7qU) - [[Slides]](https://raw.githubusercontent.com/phoenhex/files/master/slides/unboxing_your_virtualboxes.pdf)
+- [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [[Slides]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
+- [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [[Slides]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
+- [Virtualization under attack: Breaking out of KVM](https://www.youtube.com/watch?v=J7TmDGlBqpg) - [[Slides]](http://www.hakim.ws/DEFCON19/Speakers/Elhage/DEFCON-19-Elhage-Virtualization-Under-Attack.pdf)
+- [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
+- [Performant Security Hardening of KVM by Steve Rutherford](https://www.youtube.com/watch?v=vj5PA_D03Vg) - [[Slides]](http://www.linux-kvm.org/images/3/3d/01x02-Steve_Rutherford-Performant_Security_Hardening_of_KVM.pdf)
+- [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [[Slides]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
+- [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM) 
+- [Subverting the Xen hypervisor](https://invisiblethingslab.com/resources/bh08/part1.pdf)
+- [Preventing and Detecting Xen Hypervisor Subversions](https://invisiblethingslab.com/resources/bh08/part2.pdf)
+- [Bluepilling the Xen Hypervisor](https://invisiblethingslab.com/resources/bh08/part3.pdf)
+- [Cloudburst: Hacking 3D And Breaking Out Of Vmware](https://www.youtube.com/watch?v=NnYNaLSiOxY)
+- [XenPwn: Breaking paravirtualized devices](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
+
+
+## CVEs
+
+- [Wandering through the Shady Corners of VMware Workstation/Fusion](https://comsecuris.com/blog/posts/vmware_vgpu_shader_vulnerabilities/)
+- [CVE-2017-3558: Oracle VM VirtualBox - Guest-to-Host Privilege Escalation via Broken Length Handling in slirp Copy](https://www.exploit-db.com/exploits/41904/)
