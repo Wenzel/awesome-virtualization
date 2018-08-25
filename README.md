@@ -54,6 +54,10 @@ A curated list of awesome resources about virtualization.
 
 - [Xen website](https://www.xenproject.org/)
 
+## QEMU
+
+- [QEMU website](https://www.qemu.org/)
+
 ## VirtualBox
 
 - [VirtualBox website](https://www.virtualbox.org/)
