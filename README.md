@@ -100,4 +100,3 @@ A curated list of awesome resources about virtualization.
 - [Wandering through the Shady Corners of VMware Workstation/Fusion](https://comsecuris.com/blog/posts/vmware_vgpu_shader_vulnerabilities/)
 - [CVE-2018-2844 - From Compiler Optimization to Code Execution - VirtualBox VM Escape](https://www.voidsecurity.in/2018/08/from-compiler-optimization-to-code.html)
 - [CVE-2017-3558: Oracle VM VirtualBox - Guest-to-Host Privilege Escalation via Broken Length Handling in slirp Copy](https://www.exploit-db.com/exploits/41904/)
-
