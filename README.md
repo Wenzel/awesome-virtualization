@@ -40,6 +40,9 @@ A curated list of awesome resources about virtualization.
 
 - [Bareflank](https://github.com/Bareflank/hypervisor)
 - [SimpleVisor](https://github.com/ionescu007/SimpleVisor)
+- [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners)
+- [HyperPlatform](https://github.com/tandasat/HyperPlatform)
+- [hvpp](https://github.com/wbenny/hvpp)
 - [HOSS](http://www.cs.unc.edu/~porter/hoss/)
 - [TinyVM](https://github.com/jakogut/tinyvm)
 - [ACRN](https://projectacrn.github.io/)
