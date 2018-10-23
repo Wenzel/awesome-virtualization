@@ -49,6 +49,7 @@ A curated list of awesome resources about virtualization.
 - [KVM website](http://www.linux-kvm.org/page/Main_Page)
 - [KVM forum](http://www.linux-kvm.org/page/KVM_Forum)
 - [set of KVM documentations](http://www.linux-kvm.org/page/Documents)
+- [How VT-x, KVM and QEMU Work Together](https://binarydebt.wordpress.com/2018/10/14/intel-virtualisation-how-vt-x-kvm-and-qemu-work-together)
 
 ## Xen
 
