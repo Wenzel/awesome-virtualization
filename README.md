@@ -46,6 +46,7 @@ A curated list of awesome resources about virtualization.
 - [HOSS](http://www.cs.unc.edu/~porter/hoss/)
 - [TinyVM](https://github.com/jakogut/tinyvm)
 - [ACRN](https://projectacrn.github.io/)
+- [kHypervisor](https://github.com/Kelvinhack/kHypervisor)
 
 ## KVM
 
