@@ -48,6 +48,7 @@ A curated list of awesome resources about virtualization.
 - [TinyVM](https://github.com/jakogut/tinyvm)
 - [ACRN](https://projectacrn.github.io/)
 - [kHypervisor](https://github.com/Kelvinhack/kHypervisor)
+- [gbhv](https://github.com/Gbps/gbhv)
 
 ## KVM
 
