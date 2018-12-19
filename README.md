@@ -27,14 +27,14 @@ A curated list of awesome resources about virtualization.
 - [From Kernel to VMM](https://www.youtube.com/watch?v=FSw8Ff1SFLM)
 
 ## Papers
-- A comparison of software and hardware techniques for x86 virtualization by K. Adams and O. Agesen (2006)
-- Bringing Virtualization to the x86 Architecture with the Original VMware Workstation by Edouard Bugnion, Scott Devine, Mendel Rosenblum, Jeremy Sugerman, And Edward Y. Wang
-- The evolution of an x86 virtual machine monitor by O. Agesen, A. Garthwaite, J. Sheldon, and P. Subrahmanyam
-- Formal Requirements for Virtualizable Third Generation Architectures by Gerald J. Popek & Robert P. Goldberg
-- Modern Operating System 4th Edition (Chapter: Virtualization and the cloud) by Andrew Tanembaum
-- Xen and the Art of Virtualization by Paul Barham, Boris Dragovic, Keir Fraser, Steven Hand, Tim Harris, Alex Ho, Rolf Neugebauer, Ian Pratt, Andrew Warfield
-- Understanding Full Virtualization, Paravirtualization and Hardware Assisted Virtualization by VMWare
-- Dynamic Binary Translation from x86-32 code to x86-64 code for Virtualization by Yu-hsin Chen.
+- [A comparison of software and hardware techniques for x86 virtualization by K. Adams and O. Agesen (2006)](https://www.vmware.com/pdf/asplos235_adams.pdf)
+- [Bringing Virtualization to the x86 Architecture with the Original VMware Workstation by Edouard Bugnion, Scott Devine, Mendel Rosenblum, Jeremy Sugerman, And Edward Y. Wang](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423.4009&rep=rep1&type=pdf)
+- [The evolution of an x86 virtual machine monitor by O. Agesen, A. Garthwaite, J. Sheldon, and P. Subrahmanyam](http://web.mit.edu/6.033/2011/wwwdocs/papers/agesen.pdf)
+- [Formal Requirements for Virtualizable Third Generation Architectures by Gerald J. Popek & Robert P. Goldberg](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.4815&rep=rep1&type=pdf)
+- [Modern Operating System 4th Edition (Chapter: Virtualization and the cloud) by Andrew Tanembaum](https://www.pearson.com/us/higher-education/program/Tanenbaum-Modern-Operating-Systems-4th-Edition/PGM80736.html)
+- [Xen and the Art of Virtualization by Paul Barham, Boris Dragovic, Keir Fraser, Steven Hand, Tim Harris, Alex Ho, Rolf Neugebauer, Ian Pratt, Andrew Warfield](http://www.cs.yale.edu/homes/yu-minlan/teach/csci599-fall12/papers/xen.pdf)
+- [Understanding Full Virtualization, Paravirtualization and Hardware Assisted Virtualization by VMWare](https://www.vmware.com/techpapers/2007/understanding-full-virtualization-paravirtualizat-1008.html)
+- [Dynamic Binary Translation from x86-32 code to x86-64 code for Virtualization by Yu-hsin Chen.](https://dspace.mit.edu/handle/1721.1/53095)
 
 
 ## Projects
