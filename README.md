@@ -49,6 +49,7 @@ A curated list of awesome resources about virtualization.
 - [ACRN](https://projectacrn.github.io/)
 - [kHypervisor](https://github.com/Kelvinhack/kHypervisor)
 - [gbhv](https://github.com/Gbps/gbhv)
+- [ramooflax](https://github.com/airbus-seclab/ramooflax)
 
 ## KVM
 
