@@ -39,17 +39,20 @@ A curated list of awesome resources about virtualization.
 
 ## Projects
 
-- [Bareflank](https://github.com/Bareflank/hypervisor)
-- [SimpleVisor](https://github.com/ionescu007/SimpleVisor)
-- [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners)
-- [HyperPlatform](https://github.com/tandasat/HyperPlatform)
-- [hvpp](https://github.com/wbenny/hvpp)
-- [HOSS](http://www.cs.unc.edu/~porter/hoss/)
-- [TinyVM](https://github.com/jakogut/tinyvm)
-- [ACRN](https://projectacrn.github.io/)
-- [kHypervisor](https://github.com/Kelvinhack/kHypervisor)
-- [gbhv](https://github.com/Gbps/gbhv)
-- [ramooflax](https://github.com/airbus-seclab/ramooflax)
+- 2011:
+    - [ramooflax](https://github.com/airbus-seclab/ramooflax)
+    - [TinyVM](https://github.com/jakogut/tinyvm)
+- 2014: [HOSS](http://www.cs.unc.edu/~porter/hoss/)
+- 2015: [Bareflank](https://github.com/Bareflank/hypervisor)
+- 2016:
+    - [SimpleVisor](https://github.com/ionescu007/SimpleVisor)
+    - [HyperPlatform](https://github.com/tandasat/HyperPlatform)
+    - [kHypervisor](https://github.com/Kelvinhack/kHypervisor)
+- 2017: [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners)
+- 2018:
+    - [hvpp](https://github.com/wbenny/hvpp)
+    - [ACRN](https://projectacrn.github.io/)
+    - [gbhv](https://github.com/Gbps/gbhv)
 
 ## KVM
 
