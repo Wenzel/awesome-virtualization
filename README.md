@@ -39,6 +39,7 @@ A curated list of awesome resources about virtualization.
 
 ## Projects
 
+- 2000: [applepie](https://github.com/gamozolabs/applepie)
 - 2011:
     - [ramooflax](https://github.com/airbus-seclab/ramooflax)
     - [TinyVM](https://github.com/jakogut/tinyvm)
