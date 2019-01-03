@@ -39,7 +39,6 @@ A curated list of awesome resources about virtualization.
 
 ## Projects
 
-- 2000: [applepie](https://github.com/gamozolabs/applepie)
 - 2011:
     - [ramooflax](https://github.com/airbus-seclab/ramooflax)
     - [TinyVM](https://github.com/jakogut/tinyvm)
@@ -54,6 +53,7 @@ A curated list of awesome resources about virtualization.
     - [hvpp](https://github.com/wbenny/hvpp)
     - [ACRN](https://projectacrn.github.io/)
     - [gbhv](https://github.com/Gbps/gbhv)
+    - [applepie](https://github.com/gamozolabs/applepie)
 
 ## KVM
 
