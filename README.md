@@ -48,7 +48,9 @@ A curated list of awesome resources about virtualization.
     - [SimpleVisor](https://github.com/ionescu007/SimpleVisor)
     - [HyperPlatform](https://github.com/tandasat/HyperPlatform)
     - [kHypervisor](https://github.com/Kelvinhack/kHypervisor)
-- 2017: [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners)
+- 2017:
+    - [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners)
+    - [Intel HAXM](https://github.com/intel/haxm)
 - 2018:
     - [hvpp](https://github.com/wbenny/hvpp)
     - [ACRN](https://projectacrn.github.io/)
