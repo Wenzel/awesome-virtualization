@@ -80,6 +80,9 @@ A curated list of awesome resources about virtualization.
 ## Hyper-V
 
 - [Hyper-V technet](https://technet.microsoft.com/en-us/library/mt169373(v=ws.11).aspx)
+- [First Steps in Hyper-V Research](https://blogs.technet.microsoft.com/srd/2018/12/10/first-steps-in-hyper-v-research/)
+- [Hyper-V Internals](http://hvinternals.blogspot.com)
+
 
 ## Hypervisor From Scratch
 
