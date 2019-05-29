@@ -35,7 +35,7 @@ A curated list of awesome resources about virtualization.
 - [Xen and the Art of Virtualization by Paul Barham, Boris Dragovic, Keir Fraser, Steven Hand, Tim Harris, Alex Ho, Rolf Neugebauer, Ian Pratt, Andrew Warfield](http://www.cs.yale.edu/homes/yu-minlan/teach/csci599-fall12/papers/xen.pdf)
 - [Understanding Full Virtualization, Paravirtualization and Hardware Assisted Virtualization by VMWare](https://www.vmware.com/techpapers/2007/understanding-full-virtualization-paravirtualizat-1008.html)
 - [Dynamic Binary Translation from x86-32 code to x86-64 code for Virtualization by Yu-hsin Chen.](https://dspace.mit.edu/handle/1721.1/53095)
-
+- [MemoryRanger Prevents Hijacking FILE_OBJECT Structures in Windows Kernel by Igor Korkin (2019)](https://igorkorkin.blogspot.com/2019/04/memoryranger-prevents-hijacking.html)
 
 ## Projects
 
@@ -56,6 +56,8 @@ A curated list of awesome resources about virtualization.
     - [ACRN](https://projectacrn.github.io/)
     - [gbhv](https://github.com/Gbps/gbhv)
     - [applepie](https://github.com/gamozolabs/applepie)
+ - 2019: 
+    - [MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
 
 ## KVM
 
