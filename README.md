@@ -58,6 +58,7 @@ A curated list of awesome resources about virtualization.
     - [applepie](https://github.com/gamozolabs/applepie)
  - 2019: 
     - [MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
+    - [ZeldaOS.x86_64](https://github.com/chillancezen/ZeldaOS.x86_64)
 
 ## KVM
 
