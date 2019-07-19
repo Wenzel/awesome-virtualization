@@ -8,16 +8,16 @@ A curated list of awesome resources about virtualization.
 - [Books](#books)
 - [Courses](#courses)
 - [Papers](#papers)
-- [Research Projects](#research_projects)
-- [Mainstream Hypervisors Documentation](#mainstream_hypervisors)
+- [Research Projects](#research-projects)
+- [Mainstream Hypervisors Documentation](#mainstream-hypervisors-documentation)
     - [KVM](#kvm)
     - [Xen](#Xen)
     - [QEMU](#qemu)
     - [VirtualBox](#virtualbox)
-    - [Hyper-V](#hyper_v)
-- [Hypervisor From Scratch](#hypervisor_from_scratch)
-- [Virtual Machine Introspection](#virtual_machine_introspection)
-- [Malware Analysis](#malware_analysis)
+    - [Hyper-V](#hyper-v)
+- [Hypervisor From Scratch](#hypervisor-from-scratch)
+- [Virtual Machine Introspection](#virtual-machine-introspection)
+- [Malware Analysis](#malware-analysis)
 
 ## Chronology
 
