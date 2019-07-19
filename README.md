@@ -2,6 +2,23 @@
 
 A curated list of awesome resources about virtualization.
 
+## Table of Contents
+
+- [Chronology](#chronology)
+- [Books](#books)
+- [Courses](#courses)
+- [Papers](#papers)
+- [Research Projects](#research_projects)
+- [Mainstream Hypervisors Documentation](#mainstream_hypervisors)
+    - [KVM](#kvm)
+    - [Xen](#Xen)
+    - [QEMU](#qemu)
+    - [VirtualBox](#virtualbox)
+    - [Hyper-V](#hyper_v)
+- [Hypervisor From Scratch](#hypervisor_from_scratch)
+- [Virtual Machine Introspection](#virtual_machine_introspection)
+- [Malware Analysis](#malware_analysis)
+
 ## Chronology
 
 - 2005-November-13: Intel `VT-x` released on `Pentium 4` (Model `662` and `672`) processors
@@ -38,7 +55,7 @@ A curated list of awesome resources about virtualization.
 - [Dynamic Binary Translation from x86-32 code to x86-64 code for Virtualization by Yu-hsin Chen.](https://dspace.mit.edu/handle/1721.1/53095)
 - [MemoryRanger Prevents Hijacking FILE_OBJECT Structures in Windows Kernel by Igor Korkin (2019)](https://igorkorkin.blogspot.com/2019/04/memoryranger-prevents-hijacking.html)
 
-## Projects
+## Research Projects
 
 - 2011:
     - [ramooflax](https://github.com/airbus-seclab/ramooflax)
@@ -62,27 +79,29 @@ A curated list of awesome resources about virtualization.
     - [MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
     - [ZeldaOS.x86_64](https://github.com/chillancezen/ZeldaOS.x86_64)
 
-## KVM
+## Mainstream Hypervisors Documentation
+
+### KVM
 
 - [KVM website](http://www.linux-kvm.org/page/Main_Page)
 - [KVM forum](http://www.linux-kvm.org/page/KVM_Forum)
 - [set of KVM documentations](http://www.linux-kvm.org/page/Documents)
 - [How VT-x, KVM and QEMU Work Together](https://binarydebt.wordpress.com/2018/10/14/intel-virtualisation-how-vt-x-kvm-and-qemu-work-together)
 
-## Xen
+### Xen
 
 - [Xen website](https://www.xenproject.org/)
 
-## QEMU
+### QEMU
 
 - [QEMU website](https://www.qemu.org/)
 
-## VirtualBox
+### VirtualBox
 
 - [VirtualBox website](https://www.virtualbox.org/)
 - [VirtualBox documentation](https://www.virtualbox.org/wiki/Technical_documentation)
 
-## Hyper-V
+### Hyper-V
 
 - [Hyper-V technet](https://technet.microsoft.com/en-us/library/mt169373(v=ws.11).aspx)
 - [First Steps in Hyper-V Research](https://blogs.technet.microsoft.com/srd/2018/12/10/first-steps-in-hyper-v-research/)
