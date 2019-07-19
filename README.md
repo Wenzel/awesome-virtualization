@@ -106,6 +106,9 @@ A curated list of awesome resources about virtualization.
 - [Hyper-V technet](https://technet.microsoft.com/en-us/library/mt169373(v=ws.11).aspx)
 - [First Steps in Hyper-V Research](https://blogs.technet.microsoft.com/srd/2018/12/10/first-steps-in-hyper-v-research/)
 - [Hyper-V Internals](http://hvinternals.blogspot.com)
+- [Growing Hypervisor 0day with Hyperseed](http://paper.vulsee.com/OffensiveCon2019/2019_02%20-%20OffensiveCon%20-%20Growing%20Hypervisor%200day%20with%20Hyperseed.pdf)
+- [A Dive in to Hyper-V Architecture & Vulnerabilities](https://github.com/Microsoft/MSRC-Security-Research/blob/master/presentations/2018_08_BlackHatUSA/A%20Dive%20in%20to%20Hyper-V%20Architecture%20and%20Vulnerabilities.pdf)
+- [Hardening Hyper-V through offensive security research - Black Hat](https://i.blackhat.com/us-18/Thu-August-9/us-18-Rabet-Hardening-Hyper-V-Through-Offensive-Security-Research.pdf)
 
 
 ## Hypervisor From Scratch
@@ -153,6 +156,9 @@ A curated list of awesome resources about virtualization.
 - [Control Register Access Exiting and Crashing VMware](https://howtohypervise.blogspot.com/2018/10/control-register-access-exiting-and.html)
 - [VirtualBox VMSVGA VM Escape](https://www.voidsecurity.in/2018/11/virtualbox-vmsvga-vm-escape.html)
 - [VirtualBox NAT DHCP/BOOTP server vulnerabilities](https://www.voidsecurity.in/2018/11/virtualbox-nat-dhcpbootp-server.html)
+- [Hardening Hyper-V through offensive security research - Black Hat](https://i.blackhat.com/us-18/Thu-August-9/us-18-Rabet-Hardening-Hyper-V-Through-Offensive-Security-Research.pdf)
+- [Growing Hypervisor 0day with Hyperseed](http://paper.vulsee.com/OffensiveCon2019/2019_02%20-%20OffensiveCon%20-%20Growing%20Hypervisor%200day%20with%20Hyperseed.pdf)
+- [A Dive in to Hyper-V Architecture & Vulnerabilities](https://github.com/Microsoft/MSRC-Security-Research/blob/master/presentations/2018_08_BlackHatUSA/A%20Dive%20in%20to%20Hyper-V%20Architecture%20and%20Vulnerabilities.pdf)
 
 ## CVEs
 
