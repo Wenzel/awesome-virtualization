@@ -2,6 +2,23 @@
 
 A curated list of awesome resources about virtualization.
 
+## Table of Contents
+
+- [Chronology](#chronology)
+- [Books](#books)
+- [Courses](#courses)
+- [Papers](#papers)
+- [Research Projects](#research-projects)
+- [Mainstream Hypervisors Documentation](#mainstream-hypervisors-documentation)
+    - [KVM](#kvm)
+    - [Xen](#Xen)
+    - [QEMU](#qemu)
+    - [VirtualBox](#virtualbox)
+    - [Hyper-V](#hyper-v)
+- [Hypervisor From Scratch](#hypervisor-from-scratch)
+- [Virtual Machine Introspection](#virtual-machine-introspection)
+- [Malware Analysis](#malware-analysis)
+
 ## Chronology
 
 - 2005-November-13: Intel `VT-x` released on `Pentium 4` (Model `662` and `672`) processors
@@ -27,6 +44,7 @@ A curated list of awesome resources about virtualization.
 - [From Kernel to VMM](https://www.youtube.com/watch?v=FSw8Ff1SFLM)
 
 ## Papers
+
 - [A comparison of software and hardware techniques for x86 virtualization by K. Adams and O. Agesen (2006)](https://www.vmware.com/pdf/asplos235_adams.pdf)
 - [Bringing Virtualization to the x86 Architecture with the Original VMware Workstation by Edouard Bugnion, Scott Devine, Mendel Rosenblum, Jeremy Sugerman, And Edward Y. Wang](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423.4009&rep=rep1&type=pdf)
 - [The evolution of an x86 virtual machine monitor by O. Agesen, A. Garthwaite, J. Sheldon, and P. Subrahmanyam](http://web.mit.edu/6.033/2011/wwwdocs/papers/agesen.pdf)
@@ -37,7 +55,7 @@ A curated list of awesome resources about virtualization.
 - [Dynamic Binary Translation from x86-32 code to x86-64 code for Virtualization by Yu-hsin Chen.](https://dspace.mit.edu/handle/1721.1/53095)
 - [MemoryRanger Prevents Hijacking FILE_OBJECT Structures in Windows Kernel by Igor Korkin (2019)](https://igorkorkin.blogspot.com/2019/04/memoryranger-prevents-hijacking.html)
 
-## Projects
+## Research Projects
 
 - 2011:
     - [ramooflax](https://github.com/airbus-seclab/ramooflax)
@@ -61,31 +79,39 @@ A curated list of awesome resources about virtualization.
     - [MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
     - [ZeldaOS.x86_64](https://github.com/chillancezen/ZeldaOS.x86_64)
 
-## KVM
+## Mainstream Hypervisors Documentation
+
+### KVM
 
 - [KVM website](http://www.linux-kvm.org/page/Main_Page)
 - [KVM forum](http://www.linux-kvm.org/page/KVM_Forum)
 - [set of KVM documentations](http://www.linux-kvm.org/page/Documents)
 - [How VT-x, KVM and QEMU Work Together](https://binarydebt.wordpress.com/2018/10/14/intel-virtualisation-how-vt-x-kvm-and-qemu-work-together)
 
-## Xen
+### Xen
 
 - [Xen website](https://www.xenproject.org/)
 
-## QEMU
+### QEMU
 
 - [QEMU website](https://www.qemu.org/)
 
-## VirtualBox
+### VirtualBox
 
 - [VirtualBox website](https://www.virtualbox.org/)
 - [VirtualBox documentation](https://www.virtualbox.org/wiki/Technical_documentation)
 
-## Hyper-V
+### Hyper-V
 
 - [Hyper-V technet](https://technet.microsoft.com/en-us/library/mt169373(v=ws.11).aspx)
 - [First Steps in Hyper-V Research](https://blogs.technet.microsoft.com/srd/2018/12/10/first-steps-in-hyper-v-research/)
 - [Hyper-V Internals](http://hvinternals.blogspot.com)
+- [First Steps in Hyper-V Research](https://msrc-blog.microsoft.com/2018/12/10/first-steps-in-hyper-v-research/)
+- [Hyper-V and its Memory Manager](http://www.andrea-allievi.com/files/Recon_2017_Montreal_HyperV_public.pptx)
+- [Growing Hypervisor 0day with Hyperseed](http://paper.vulsee.com/OffensiveCon2019/2019_02%20-%20OffensiveCon%20-%20Growing%20Hypervisor%200day%20with%20Hyperseed.pdf)
+- [A Dive in to Hyper-V Architecture & Vulnerabilities](https://github.com/Microsoft/MSRC-Security-Research/blob/master/presentations/2018_08_BlackHatUSA/A%20Dive%20in%20to%20Hyper-V%20Architecture%20and%20Vulnerabilities.pdf)
+- [Hardening Hyper-V through offensive security research - Black Hat](https://i.blackhat.com/us-18/Thu-August-9/us-18-Rabet-Hardening-Hyper-V-Through-Offensive-Security-Research.pdf)
+- [VBS and VSM Internals](https://raw.githubusercontent.com/saaramar/Publications/master/BluehatIL_VBS_meetup/VBS_Internals.pdf)
 
 
 ## Hypervisor From Scratch
@@ -96,6 +122,7 @@ A curated list of awesome resources about virtualization.
 - [Part 4: Address Translation Using Extended Page Table (EPT)](https://rayanfam.com/topics/hypervisor-from-scratch-part-4)
 - [Part 5: Setting up VMCS & Running Guest Code](https://rayanfam.com/topics/hypervisor-from-scratch-part-5)
 - [Part 6: Virtualizing An Already Running System](https://rayanfam.com/topics/hypervisor-from-scratch-part-6)
+
 ## Virtual Machine Introspection
 
 - [Zero-Footprint Guest Memory Introspection from Xen by Mihai Dontu](https://www.youtube.com/watch?v=GGjPU6jHi_w) - [[Slides]](https://www.slideshare.net/xen_com_mgr/zero-footprint-guest-memory-introspection-from-xen) [[Update]](http://events17.linuxfoundation.org/sites/events/files/slides/Zero-Footprint%20Guest%20Memory%20Introspection%20with%20Xen.pdf)
@@ -107,6 +134,7 @@ A curated list of awesome resources about virtualization.
 - [Who Watches The Watcher? Detecting Hypervisor Introspection from Unprivileged Guests](https://dfrws.org/sites/default/files/session-files/paper_who_watches_the_watcher_detecting_hypervisor_introspection_from_unprivileged_guests.pdf)
 
 ## Attacking Hypervisors
+
 - [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo&t=3s)
 - [Unboxing your virtualBox](https://www.youtube.com/watch?v=fFaWE3jt7qU) - [[Slides]](https://raw.githubusercontent.com/phoenhex/files/master/slides/unboxing_your_virtualboxes.pdf)
 - [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [[Slides]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
@@ -131,8 +159,16 @@ A curated list of awesome resources about virtualization.
 - [Control Register Access Exiting and Crashing VMware](https://howtohypervise.blogspot.com/2018/10/control-register-access-exiting-and.html)
 - [VirtualBox VMSVGA VM Escape](https://www.voidsecurity.in/2018/11/virtualbox-vmsvga-vm-escape.html)
 - [VirtualBox NAT DHCP/BOOTP server vulnerabilities](https://www.voidsecurity.in/2018/11/virtualbox-nat-dhcpbootp-server.html)
+- [Hardening Hyper-V through offensive security research - Black Hat](https://i.blackhat.com/us-18/Thu-August-9/us-18-Rabet-Hardening-Hyper-V-Through-Offensive-Security-Research.pdf)
+- [Growing Hypervisor 0day with Hyperseed](http://paper.vulsee.com/OffensiveCon2019/2019_02%20-%20OffensiveCon%20-%20Growing%20Hypervisor%200day%20with%20Hyperseed.pdf)
+- [A Dive in to Hyper-V Architecture & Vulnerabilities](https://github.com/Microsoft/MSRC-Security-Research/blob/master/presentations/2018_08_BlackHatUSA/A%20Dive%20in%20to%20Hyper-V%20Architecture%20and%20Vulnerabilities.pdf)
+- [Security Assessment of Microsoft Hyper-V](https://static.ernw.de/whitepaper/ERNW_Newsletter_43_HyperV_en.pdf)
+- [VBS and VSM Internals](https://raw.githubusercontent.com/saaramar/Publications/master/BluehatIL_VBS_meetup/VBS_Internals.pdf)
+- [Fuzzing para-virtualized devices in Hyper-V](https://msrc-blog.microsoft.com/2019/01/28/fuzzing-para-virtualized-devices-in-hyper-v/)
+- [Writing a Hyper-V Bridge for Fuzzing](http://www.alex-ionescu.com/?p=377)
 
 ## CVEs
+
 - [Wandering through the Shady Corners of VMware Workstation/Fusion](https://comsecuris.com/blog/posts/vmware_vgpu_shader_vulnerabilities/)
 - [CVE-2018-2844: From Compiler Optimization to Code Execution - VirtualBox VM Escape](https://www.voidsecurity.in/2018/08/from-compiler-optimization-to-code.html)
 - [CVE-2017-3558: Oracle VM VirtualBox - Guest-to-Host Privilege Escalation via Broken Length Handling in slirp Copy](https://www.exploit-db.com/exploits/41904/)
@@ -144,7 +180,8 @@ A curated list of awesome resources about virtualization.
 - [Pandavirtualization: Exploiting the Xen hypervisor](https://googleprojectzero.blogspot.com/2017/04/pandavirtualization-exploiting-xen.html)
 
 
-# Malware analysis
+## Malware analysis
+
 - [DEFCON 17: Reverse Engineering By Crayon: Hypervisor Based Malware Analysis and Visualization](https://www.youtube.com/watch?v=i3I8wtrjYY4)
 - [Hypervisors In Ur Toolbox: Monitoring N Controlling System Events With HyperPlatform](https://www.youtube.com/watch?v=oSkP5k0Bkgk)
 - [How to hide a hook: A hypervisor for rootkits](http://phrack.org/issues/69/15.html#article)
