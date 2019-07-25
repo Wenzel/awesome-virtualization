@@ -69,6 +69,7 @@ A curated list of awesome resources about virtualization.
     - [HyperPlatform](https://github.com/tandasat/HyperPlatform)
     - [kHypervisor](https://github.com/Kelvinhack/kHypervisor)
     - [rustyvisor](https://github.com/iankronquist/rustyvisor)
+    - [HyperBone](https://github.com/DarthTon/HyperBone)
 - 2017:
     - [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners)
     - [Intel HAXM](https://github.com/intel/haxm)
