@@ -188,6 +188,7 @@ A curated list of awesome resources about virtualization.
 - [VBS and VSM Internals](https://raw.githubusercontent.com/saaramar/Publications/master/BluehatIL_VBS_meetup/VBS_Internals.pdf)
 - [Fuzzing para-virtualized devices in Hyper-V](https://msrc-blog.microsoft.com/2019/01/28/fuzzing-para-virtualized-devices-in-hyper-v/)
 - [Writing a Hyper-V Bridge for Fuzzing](http://www.alex-ionescu.com/?p=377)
+- [Awesome Hyper-V Exploitation](https://github.com/shogunlab/awesome-hyper-v-exploitation)
 
 ## CVEs
 
