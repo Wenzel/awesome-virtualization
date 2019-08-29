@@ -78,7 +78,8 @@ A curated list of awesome resources about virtualization.
     - [ACRN](https://projectacrn.github.io/)
     - [gbhv](https://github.com/Gbps/gbhv)
     - [applepie](https://github.com/gamozolabs/applepie)
- - 2019: 
+    - [boxy](https://github.com/Bareflank/boxy)
+ - 2019:
     - [MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
     - [ZeldaOS.x86_64](https://github.com/chillancezen/ZeldaOS.x86_64)
 
