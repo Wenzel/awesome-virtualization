@@ -80,6 +80,7 @@ A curated list of awesome resources about virtualization.
     - [gbhv](https://github.com/Gbps/gbhv)
     - [applepie](https://github.com/gamozolabs/applepie)
     - [boxy](https://github.com/Bareflank/boxy)
+    - [nemu](https://github.com/intel/nemu)
  - 2019:
     - [MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
     - [ZeldaOS.x86_64](https://github.com/chillancezen/ZeldaOS.x86_64)
