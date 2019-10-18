@@ -73,6 +73,7 @@ A curated list of awesome resources about virtualization.
 - 2017:
     - [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners)
     - [Intel HAXM](https://github.com/intel/haxm)
+    - [ksm](https://github.com/asamy/ksm)
 - 2018:
     - [hvpp](https://github.com/wbenny/hvpp)
     - [ACRN](https://projectacrn.github.io/)
