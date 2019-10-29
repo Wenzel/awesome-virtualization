@@ -59,6 +59,7 @@ A curated list of awesome resources about virtualization.
 
 ## Research Projects
 
+- 2008: [BitVisor](https://bitbucket.org/bitvisor/bitvisor/)
 - 2011:
     - [ramooflax](https://github.com/airbus-seclab/ramooflax)
     - [TinyVM](https://github.com/jakogut/tinyvm)
