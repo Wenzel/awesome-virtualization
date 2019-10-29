@@ -85,6 +85,7 @@ A curated list of awesome resources about virtualization.
  - 2019:
     - [MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
     - [ZeldaOS.x86_64](https://github.com/chillancezen/ZeldaOS.x86_64)
+    - [vbh](https://github.com/intel/vbh)
 
 ## Mainstream Hypervisors Documentation
 
