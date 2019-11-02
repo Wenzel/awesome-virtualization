@@ -63,6 +63,7 @@ A curated list of awesome resources about virtualization.
 - 2011:
     - [ramooflax](https://github.com/airbus-seclab/ramooflax)
     - [TinyVM](https://github.com/jakogut/tinyvm)
+- 2013: [jailhouse](https://github.com/siemens/jailhouse)
 - 2014: [HOSS](http://www.cs.unc.edu/~porter/hoss/)
 - 2015: [Bareflank](https://github.com/Bareflank/hypervisor)
 - 2016:
