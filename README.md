@@ -85,6 +85,7 @@ A curated list of awesome resources about virtualization.
     - [applepie](https://github.com/gamozolabs/applepie)
     - [boxy](https://github.com/Bareflank/boxy)
     - [nemu](https://github.com/intel/nemu)
+    - [gvisor](https://github.com/google/gvisor)
  - 2019:
     - [rust-vmm](https://github.com/rust-vmm/community)
     - [MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
