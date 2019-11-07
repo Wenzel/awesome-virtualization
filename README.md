@@ -77,6 +77,7 @@ A curated list of awesome resources about virtualization.
     - [Intel HAXM](https://github.com/intel/haxm)
     - [ksm](https://github.com/asamy/ksm)
     - [crosvm](https://github.com/dgreid/crosvm)
+    - [Firecracker](https://github.com/firecracker-microvm/firecracker)
 - 2018:
     - [hvpp](https://github.com/wbenny/hvpp)
     - [ACRN](https://projectacrn.github.io/)
