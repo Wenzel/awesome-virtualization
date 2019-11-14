@@ -93,6 +93,7 @@ A curated list of awesome resources about virtualization.
     - [ZeldaOS.x86_64](https://github.com/chillancezen/ZeldaOS.x86_64)
     - [vbh](https://github.com/intel/vbh)
     - [HypSec](https://www.usenix.org/system/files/sec19-li-shih-wei.pdf)
+    - [zpp_hypervisor](https://github.com/eyalz800/zpp_hypervisor)
 
 ## Mainstream Hypervisors Documentation
 
