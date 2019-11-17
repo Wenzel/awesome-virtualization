@@ -16,7 +16,7 @@ A curated list of awesome resources about virtualization.
     - [VMware](#vmware)
     - [VirtualBox](#virtualbox)
     - [Hyper-V](#hyper-v)
-- [Hypervisor From Scratch](#hypervisor-from-scratch)
+- [Hypervisor Development](#hypervisor-development)
 - [Virtual Machine Introspection](#virtual-machine-introspection)
 - [Attacking Hypervisors](#attacking-hypervisors)
 - [Malware Analysis](#malware-analysis)
@@ -135,7 +135,9 @@ A curated list of awesome resources about virtualization.
 - [VBS and VSM Internals](https://raw.githubusercontent.com/saaramar/Publications/master/BluehatIL_VBS_meetup/VBS_Internals.pdf)
 
 
-## Hypervisor From Scratch
+## Hypervisor Development
+
+### Hypervisor From Scratch
 
 - [Part 1: Basic Concepts & Configure Testing Environment](https://rayanfam.com/topics/hypervisor-from-scratch-part-1)
 - [Part 2: Entering VMX Operation](https://rayanfam.com/topics/hypervisor-from-scratch-part-2)
@@ -143,6 +145,15 @@ A curated list of awesome resources about virtualization.
 - [Part 4: Address Translation Using Extended Page Table (EPT)](https://rayanfam.com/topics/hypervisor-from-scratch-part-4)
 - [Part 5: Setting up VMCS & Running Guest Code](https://rayanfam.com/topics/hypervisor-from-scratch-part-5)
 - [Part 6: Virtualizing An Already Running System](https://rayanfam.com/topics/hypervisor-from-scratch-part-6)
+
+### 5 Days to Virtualization
+
+- [Day 0: Virtual Environment Setup, Scripts, and WinDbg ](https://revers.engineering/day-0-virtual-environment-setup-scripts-and-windbg/)
+- [Day 1: Introduction to Virtualization, Type Definitions, and Support Testing](https://revers.engineering/day-1-introduction-to-virtualization/)
+- [Day 2: Entering VMX Operation, Explaining Implementation Requirements](https://revers.engineering/day-2-entering-vmx-operation/)
+- [Day 3: The VMCS, Component Encoding, and Multiprocessor Initialization](https://revers.engineering/day-3-multiprocessor-initialization-error-handling-the-vmcs/)
+- [Day 4: VMCS Initialization, Segmentation, and Operation Visualization](https://revers.engineering/day-4-vmcs-segmentation-ops/)
+- [Day 5: The VM-exit Handler, Event Injection, Context Modifications, and CPUID Emulation](https://revers.engineering/day-5-vmexits-interrupts-cpuid-emulation/)
 
 ## Virtual Machine Introspection
 
