@@ -11,7 +11,7 @@ A curated list of awesome resources about virtualization.
 - [Research Projects](#research-projects)
 - [Mainstream Hypervisors Documentation](#mainstream-hypervisors-documentation)
     - [KVM](#kvm)
-    - [Xen](#Xen)
+    - [Xen](#xen)
     - [QEMU](#qemu)
     - [VMware](#vmware)
     - [VirtualBox](#virtualbox)
@@ -137,8 +137,6 @@ A curated list of awesome resources about virtualization.
 - 2019:
     - [Growing Hypervisor 0day with Hyperseed](http://paper.vulsee.com/OffensiveCon2019/2019_02%20-%20OffensiveCon%20-%20Growing%20Hypervisor%200day%20with%20Hyperseed.pdf)
     - [VBS and VSM Internals](https://raw.githubusercontent.com/saaramar/Publications/master/BluehatIL_VBS_meetup/VBS_Internals.pdf)
-
-
 - [Virtualization Documentation](https://docs.microsoft.com/fr-fr/virtualization/)
 - [Hyper-V technet](https://technet.microsoft.com/en-us/library/mt169373(v=ws.11).aspx)
 - [Hyper-V Internals](http://hvinternals.blogspot.com)
