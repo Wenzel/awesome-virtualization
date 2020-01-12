@@ -95,6 +95,7 @@ A curated list of awesome resources about virtualization.
     - [HypSec](https://www.usenix.org/system/files/sec19-li-shih-wei.pdf)
     - [zpp_hypervisor](https://github.com/eyalz800/zpp_hypervisor)
     - [orange_slice](https://github.com/gamozolabs/orange_slice)
+    - [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
 
 ## Mainstream Hypervisors Documentation
 
