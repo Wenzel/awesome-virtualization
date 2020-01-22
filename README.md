@@ -79,6 +79,7 @@ A curated list of awesome resources about virtualization.
     - [ksm](https://github.com/asamy/ksm)
     - [crosvm](https://github.com/dgreid/crosvm)
     - [Firecracker](https://github.com/firecracker-microvm/firecracker)
+    - [SimpleSvm](https://github.com/tandasat/SimpleSvm)
 - 2018:
     - [hvpp](https://github.com/wbenny/hvpp)
     - [ACRN](https://projectacrn.github.io/)
