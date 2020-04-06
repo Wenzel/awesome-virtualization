@@ -25,13 +25,13 @@ A curated list of awesome resources about virtualization.
 
 - 2005-November-13: Intel `VT-x` released on `Pentium 4` (Model `662` and `672`) processors
 - 2006-May-23: AMD `AMD-V` released on `Orleans` and `Windsor` processors
-- 2007-September-10 : AMD `Barcelona` offer support for `RVI` (`SLAT`)
-- 2008-November: Intel `Nehalem` offer support for `EPT` (`SLAT`)
-- 2010-January-7: Intel `Westmere` offer support for `unrestricted guests`
-- 2013-June-4: Intel `Haswell`:
+- 2007-September-10 : AMD `Barcelona` adds `RVI` (_Rapid Virtualization Indexing_) a.k.a (_Nested Page Tables_) a.k.a (`SLAT`)
+- 2008-November: Intel `Nehalem` adds `EPT` (_Extended Page Tables_) a.k.a (`SLAT`)
+- 2010-January-7: Intel `Westmere` adds `unrestricted guests`
+- 2013-June-4: Intel `haswell`:
     - `VMCS Shadowing`
     - `VMFUNC`, `#VE` and `EPTP` switching
-- 2019-August-1: Intel `Ice Lake` add support for `EPT SPP` (_EPT-Based Sub-Page
+- 2019-August-1: Intel `Ice Lake` adds `EPT SPP` (_EPT-Based Sub-Page
   Write Protection_)
 
 ## Books
