@@ -29,7 +29,7 @@ A curated list of awesome resources about virtualization.
 - 2008-November: Intel `Nehalem`
     - `EPT` (_Extended Page Tables_) a.k.a (`SLAT`)
     - `VPID` (_Virtual Processor ID_)
-- 2010-January-7: Intel `Westmere` adds `unrestricted guests`
+- 2010-January-7: Intel `Westmere` adds `unrestricted guests` a.k.a (_Real Mode Support_)
 - 2013-June-4: Intel `haswell`:
     - `VMCS Shadowing`
     - `VMFUNC`, `#VE` and `EPTP` switching
