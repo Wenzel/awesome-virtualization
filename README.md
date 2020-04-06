@@ -28,7 +28,9 @@ A curated list of awesome resources about virtualization.
 - 2007-September-10 : AMD `Barcelona` offer support for `RVI` (`SLAT`)
 - 2008-November: Intel `Nehalem` offer support for `EPT` (`SLAT`)
 - 2010-January-7: Intel `Westmere` offer support for `unrestricted guests`
-- 2013-June-4: Intel `haswell` offer support for `VMCS Shadowing`
+- 2013-June-4: Intel `Haswell`:
+    - `VMCS Shadowing`
+    - `VMFUNC`, `#VE` and `EPTP` switching
 
 ## Books
 
