@@ -31,8 +31,9 @@ A curated list of awesome resources about virtualization.
 - 2013-June-4: Intel `haswell`:
     - `VMCS Shadowing`
     - `VMFUNC`, `#VE` and `EPTP` switching
-- 2019-August-1: Intel `Ice Lake` adds `EPT SPP` (_EPT-Based Sub-Page
-  Write Protection_)
+- 2019-August-1: Intel `Ice Lake`
+    - `EPT SPP` (_EPT-Based Sub-Page Write Protection_)
+    - Virtualizing `Intel Processor Trace` output buffer using EPT
 
 ## Books
 
