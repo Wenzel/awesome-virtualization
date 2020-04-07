@@ -5,6 +5,7 @@ A curated list of awesome resources about virtualization.
 ## Table of Contents
 
 - [Chronology](#chronology)
+- [Documentation](#documentation)
 - [Books](#books)
 - [Courses](#courses)
 - [Papers](#papers)
@@ -37,9 +38,15 @@ A curated list of awesome resources about virtualization.
     - `EPT SPP` (_EPT-Based Sub-Page Write Protection_)
     - Virtualizing `Intel Processor Trace` output buffer using EPT
 
-## Books
+## Documentation
+
+### Intel
 
 - [Intel® 64 and IA-32 architectures software developer's manual volume 3C](https://software.intel.com/sites/default/files/managed/7c/f1/326019-sdm-vol-3c.pdf)
+- [VMCS Layout](https://github.com/LordNoteworthy/cpu-internals/blob/master/VMCS-Layout.pdf)
+
+## Books
+
 - [Virtual Machines: Versatile Platforms for Systems and Processes](https://www.amazon.com/Virtual-Machines-Versatile-Platforms-Architecture/dp/1558609105)
 - [Mastering KVM Virtualization](https://www.amazon.com/Mastering-Virtualization-Humble-Devassy-Chirammal/dp/1784399051)
 
