@@ -115,6 +115,7 @@ A curated list of awesome resources about virtualization.
     - [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
   - 2020:
     - [MiniVisorPkg](https://github.com/tandasat/MiniVisorPkg)
+    - [MicroV](https://github.com/Bareflank/MicroV)
 
 ## Mainstream Hypervisors Documentation
 
