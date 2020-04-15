@@ -37,6 +37,7 @@ A curated list of awesome resources about virtualization.
 - 2019-August-1: Intel `Ice Lake`
     - `EPT SPP` (_EPT-Based Sub-Page Write Protection_)
     - Virtualizing `Intel Processor Trace` output buffer using EPT
+- 2020-March: Intel adds support for `Hypervisor-Managed Linear Address Translation`
 
 ## Documentation
 
