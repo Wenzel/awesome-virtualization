@@ -205,6 +205,7 @@ A curated list of awesome resources about virtualization.
 - [Virtual Machine Introspection to Detect and Protect](https://www.youtube.com/watch?v=EZPXy314q3E)
 - [Hypervisor Memory Forensics](http://www.s3.eurecom.fr/docs/raid13_graziano.pdf) - [[Slides]](http://s3.eurecom.fr/~emdel/talks/grazianolanzi_hitb.pdf)
 - [Who Watches The Watcher? Detecting Hypervisor Introspection from Unprivileged Guests](https://dfrws.org/sites/default/files/session-files/paper_who_watches_the_watcher_detecting_hypervisor_introspection_from_unprivileged_guests.pdf)
+- [DRAKVUF Black-box Binary Analysis for in-depth execution tracing of arbitrary binaries](https://drakvuf.com)
 
 ## Attacking Hypervisors
 
