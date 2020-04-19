@@ -34,10 +34,15 @@ A curated list of awesome resources about virtualization.
 - 2013-June-4: Intel `haswell`:
     - `VMCS Shadowing`
     - `VMFUNC`, `#VE` and `EPTP` switching
-- 2019-August-1: Intel `Ice Lake`
-    - `EPT SPP` (_EPT-Based Sub-Page Write Protection_)
-    - Virtualizing `Intel Processor Trace` output buffer using EPT
-- 2020-March: Intel adds support for `Hypervisor-Managed Linear Address Translation` (_HLAT_)
+- 2017
+    - June-21: AMD `EPYC` adds suport for `Secure Encrypted Virtualization` (_SEV_)
+    - AMD documents `Encrypted State` (_SEV-ES_)
+- 2019
+    - AMD documents `Secure Nested Paging` (_SEV-SNP_)
+    - August-1: Intel `Ice Lake`
+        - `EPT SPP` (_EPT-Based Sub-Page Write Protection_)
+        - Virtualizing `Intel Processor Trace` output buffer using EPT
+- 2020-March: Intel documents `Hypervisor-Managed Linear Address Translation` (_HLAT_)
 
 ## Documentation
 
@@ -45,6 +50,10 @@ A curated list of awesome resources about virtualization.
 
 - [Intel® 64 and IA-32 architectures software developer's manual volume 3C](https://software.intel.com/sites/default/files/managed/7c/f1/326019-sdm-vol-3c.pdf)
 - [VMCS Layout](https://github.com/LordNoteworthy/cpu-internals/blob/master/VMCS-Layout.pdf)
+
+### AMD
+
+- [Secure Encrypted Virutalization](https://developer.amd.com/sev/)
 
 ## Books
 
