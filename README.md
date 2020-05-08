@@ -126,6 +126,7 @@ A curated list of awesome resources about virtualization.
   - 2020:
     - [MiniVisorPkg](https://github.com/tandasat/MiniVisorPkg)
     - [MicroV](https://github.com/Bareflank/MicroV)
+    - [Zelda.RISCV](https://github.com/chillancezen/Zelda.RISCV.Emulator)
 
 ## Mainstream Hypervisors Documentation
 
