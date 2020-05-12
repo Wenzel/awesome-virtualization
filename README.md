@@ -155,6 +155,7 @@ A curated list of awesome resources about virtualization.
 
 ### Hyper-V
 
+- [Hyper-V internals researches (2006-2019)](https://github.com/gerhart01/Hyper-V-Internals/blob/master/HyperResearchesHistory.md)
 - 2015:
     - [Battle of SKM and IUM](http://www.alex-ionescu.com/blackhat2015.pdf)
     - [Ring 0 to Ring -1 Attacks](http://www.alex-ionescu.com/syscan2015.pdf)
