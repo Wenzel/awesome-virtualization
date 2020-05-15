@@ -174,6 +174,7 @@ A curated list of awesome resources about virtualization.
     - [VBS and VSM Internals](https://raw.githubusercontent.com/saaramar/Publications/master/BluehatIL_VBS_meetup/VBS_Internals.pdf)
 - 2020:
     - [Hyper-V #0x1 - Hypercalls part 1](https://foxhex0ne.blogspot.com/2020/05/hyper-v-0x1-hypercalls-part-1.html)
+    - [Hyper-V LIS](https://re.alisa.sh/notes/Hyper-V-LIS.html)
 - [Virtualization Documentation](https://docs.microsoft.com/fr-fr/virtualization/)
 - [Hyper-V technet](https://technet.microsoft.com/en-us/library/mt169373(v=ws.11).aspx)
 - [Hyper-V Internals](http://hvinternals.blogspot.com)
