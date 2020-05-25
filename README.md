@@ -124,6 +124,7 @@ A curated list of awesome resources about virtualization.
     - [orange_slice](https://github.com/gamozolabs/orange_slice)
     - [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
     - [uhyve](https://github.com/hermitcore/uhyve)
+    - [mythril](https://github.com/mythril-hypervisor/mythril)
   - 2020:
     - [MiniVisorPkg](https://github.com/tandasat/MiniVisorPkg)
     - [MicroV](https://github.com/Bareflank/MicroV)
