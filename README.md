@@ -227,6 +227,7 @@ A curated list of awesome resources about virtualization.
 - [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
 - [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [[Slides]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
 - [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
+- [Hypervisor Vulnerability Research - State of the Art](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
 
 ### KVM
 
