@@ -69,6 +69,7 @@ A curated list of awesome resources about virtualization.
 - [Container Virtualization by Geoffrey Challen](https://www.youtube.com/watch?v=nanHh0t4ssE)
 - [Open Security Training Advanced VT-x course](http://opensecuritytraining.info/AdvancedX86-VTX.html)
 - [From Kernel to VMM](https://www.youtube.com/watch?v=FSw8Ff1SFLM)
+- [MMU Virtualization via Intel EPT](https://revers.engineering/mmu-ept-technical-details/)
 
 ## Papers
 
