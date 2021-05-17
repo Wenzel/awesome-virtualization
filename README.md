@@ -20,6 +20,11 @@ A curated list of awesome resources about virtualization.
 - [Hypervisor Development](#hypervisor-development)
 - [Virtual Machine Introspection](#virtual-machine-introspection)
 - [Attacking Hypervisors](#attacking-hypervisors)
+    - [KVM](#kvm-1)
+    - [Xen](#xen-1)
+    - [VMware](#vmware-1)
+    - [VirtualBox](#virtualbox-1)
+    - [Hyper-V](#hyper-v-1)
 - [Malware Analysis](#malware-analysis)
 
 ## Chronology
