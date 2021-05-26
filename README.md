@@ -141,6 +141,7 @@ A curated list of awesome resources about virtualization.
     - [Zelda.RISCV](https://github.com/chillancezen/Zelda.RISCV.Emulator)
     - [napoca](https://github.com/napocahv/napoca)
     - [barbervisor](https://github.com/Cisco-Talos/Barbervisor)
+    - [Hedron](https://github.com/cyberus-technology/hedron)
 
 ## Mainstream Hypervisors Documentation
 
