@@ -75,6 +75,7 @@ A curated list of awesome resources about virtualization.
 - [Open Security Training Advanced VT-x course](http://opensecuritytraining.info/AdvancedX86-VTX.html)
 - [From Kernel to VMM](https://www.youtube.com/watch?v=FSw8Ff1SFLM)
 - [MMU Virtualization via Intel EPT](https://revers.engineering/mmu-ept-technical-details/)
+- [Virtualization and Computing Lectures](https://www.youtube.com/playlist?list=PLDW872573QAbcpQ7VSUdcm4o3tgnQYBE8)
 
 ## Papers
 
