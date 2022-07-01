@@ -88,6 +88,8 @@ A curated list of awesome resources about virtualization.
 - [Understanding Full Virtualization, Paravirtualization and Hardware Assisted Virtualization by VMWare](https://www.vmware.com/techpapers/2007/understanding-full-virtualization-paravirtualizat-1008.html)
 - [Dynamic Binary Translation from x86-32 code to x86-64 code for Virtualization by Yu-hsin Chen.](https://dspace.mit.edu/handle/1721.1/53095)
 - [MemoryRanger Prevents Hijacking FILE_OBJECT Structures in Windows Kernel by Igor Korkin (2019)](https://igorkorkin.blogspot.com/2019/04/memoryranger-prevents-hijacking.html)
+- [HyperDbg: Reinventing Hardware-Assisted Debugging](https://www.preprints.org/manuscript/202205.0416/v1/download)
+
 
 ## Research Projects
 
