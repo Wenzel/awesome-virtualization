@@ -63,6 +63,7 @@ A curated list of awesome resources about virtualization.
 
 ## Books
 
+- [Hardware and Software Support for Virtualization](https://www.amazon.com/Hardware-Software-Virtualization-Synthesis-Architecture/dp/1627056939)
 - [Virtual Machines: Versatile Platforms for Systems and Processes](https://www.amazon.com/Virtual-Machines-Versatile-Platforms-Architecture/dp/1558609105)
 - [Mastering KVM Virtualization](https://www.amazon.com/Mastering-Virtualization-Humble-Devassy-Chirammal/dp/1784399051)
 
