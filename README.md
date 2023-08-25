@@ -93,6 +93,7 @@ A curated list of awesome resources about virtualization.
 
 ## Research Projects
 
+- 2006: [Blue Pill](http://www.invisiblethingslab.com/resources/bh07/nbp-0.32-public.zip)
 - 2008: [BitVisor](https://bitbucket.org/bitvisor/bitvisor/)
 - 2010:
     - [Xvisor](http://xhypervisor.org/)
