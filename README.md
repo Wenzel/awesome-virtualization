@@ -88,7 +88,8 @@ A curated list of awesome resources about virtualization.
 - [Understanding Full Virtualization, Paravirtualization and Hardware Assisted Virtualization by VMWare](https://www.vmware.com/techpapers/2007/understanding-full-virtualization-paravirtualizat-1008.html)
 - [Dynamic Binary Translation from x86-32 code to x86-64 code for Virtualization by Yu-hsin Chen.](https://dspace.mit.edu/handle/1721.1/53095)
 - [MemoryRanger Prevents Hijacking FILE_OBJECT Structures in Windows Kernel by Igor Korkin (2019)](https://igorkorkin.blogspot.com/2019/04/memoryranger-prevents-hijacking.html)
-- [HyperDbg: Reinventing Hardware-Assisted Debugging](https://www.preprints.org/manuscript/202205.0416/v1/download)
+- [HyperDbg: Reinventing Hardware-Assisted Debugging](https://arxiv.org/pdf/2207.05676)
+- [The Reversing Machine: Reconstructing Memory Assumptions](https://arxiv.org/pdf/2405.00298)
 
 
 ## Research Projects
@@ -231,6 +232,7 @@ A curated list of awesome resources about virtualization.
 - [DRAKVUF Black-box Binary Analysis for in-depth execution tracing of arbitrary binaries](https://drakvuf.com)
 - [Patchguard: Detection of Hypervisor Based Introspection - P1](https://revers.engineering/patchguard-detection-of-hypervisor-based-instrospection-p1/)
 - [Patchguard: Detection of Hypervisor Based Introspection - P2](https://revers.engineering/patchguard-detection-of-hypervisor-based-instrospection-p2/)
+- [Reversing with HyperDbg (Dbg3301) - OpenSecurityTraining](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kF1f143wlw8ujlH2A45nZY)
 
 ## Attacking Hypervisors
 
