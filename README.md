@@ -165,6 +165,7 @@ A curated list of awesome resources about virtualization.
 ### QEMU
 
 - [QEMU website](https://www.qemu.org/)
+- [QEMU Starter (a beginners guide)](https://github.com/TunaCici/QEMU_Starter)
 
 ### VMware
 
