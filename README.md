@@ -236,6 +236,7 @@ A curated list of awesome resources about virtualization.
 - [Patchguard: Detection of Hypervisor Based Introspection - P1](https://revers.engineering/patchguard-detection-of-hypervisor-based-instrospection-p1/)
 - [Patchguard: Detection of Hypervisor Based Introspection - P2](https://revers.engineering/patchguard-detection-of-hypervisor-based-instrospection-p2/)
 - [Reversing with HyperDbg (Dbg3301) - OpenSecurityTraining](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kF1f143wlw8ujlH2A45nZY)
+- [VMAware (VM detection library and tool)](https://github.com/kernelwernel/VMAware)
 
 ## Attacking Hypervisors
 
