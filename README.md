@@ -148,6 +148,8 @@ A curated list of awesome resources about virtualization.
     - [napoca](https://github.com/napocahv/napoca)
     - [barbervisor](https://github.com/Cisco-Talos/Barbervisor)
     - [Hedron](https://github.com/cyberus-technology/hedron)
+- 2026:
+    - [go-microvm](https://github.com/stacklok/go-microvm)
 
 ## Mainstream Hypervisors Documentation
 
