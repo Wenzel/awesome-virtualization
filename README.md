@@ -314,3 +314,4 @@ A curated list of awesome resources about virtualization.
 - [DEFCON 17: Reverse Engineering By Crayon: Hypervisor Based Malware Analysis and Visualization](https://www.youtube.com/watch?v=i3I8wtrjYY4)
 - [Hypervisors In Ur Toolbox: Monitoring N Controlling System Events With HyperPlatform](https://www.youtube.com/watch?v=oSkP5k0Bkgk)
 - [How to hide a hook: A hypervisor for rootkits](http://phrack.org/issues/69/15.html#article)
+- [Window Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/)
