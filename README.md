@@ -148,6 +148,8 @@ A curated list of awesome resources about virtualization.
     - [napoca](https://github.com/napocahv/napoca)
     - [barbervisor](https://github.com/Cisco-Talos/Barbervisor)
     - [Hedron](https://github.com/cyberus-technology/hedron)
+- 2026:
+    - [hypervisor](https://github.com/willamhou/hypervisor) - ARM64 Type-1 bare-metal hypervisor in Rust (no_std). S-EL2 SPMC replacing Hafnium, runs alongside Android pKVM, FF-A v1.1, 35/35 E2E tests.
 
 ## Mainstream Hypervisors Documentation
 
