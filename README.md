@@ -166,6 +166,7 @@ A curated list of awesome resources about virtualization.
 
 - [QEMU website](https://www.qemu.org/)
 - [QEMU Starter (a beginners guide)](https://github.com/TunaCici/QEMU_Starter)
+- [AQEMU](https://github.com/chronic8000/aqemu) - Qt GUI frontend for QEMU on Windows and Linux, with WHPX acceleration (including native ARM64 on Windows on Arm) and snapshot management. Open source (GPLv2); the Microsoft Store build is paid.
 
 ### VMware
 
