@@ -17,8 +17,8 @@ jobs:
       - uses: lycheeverse/lychee-action@v2
         id: lychee
         with:
-          # 403 and 429: Intel, SlideShare and Core Security block automated clients
-          args: --no-progress --accept 200,206,403,429 README.md
+          # 202, 403 and 429: bot challenges and rate limits (SSD, Intel, ACM, SlideShare, Wayback)
+          args: --no-progress --accept 200,202,206,403,429 README.md
           fail: ${{ github.event_name == 'pull_request' }}
       - if: steps.lychee.outputs.exit_code != 0 && github.event_name != 'pull_request'
         uses: peter-evans/create-issue-from-file@v5
