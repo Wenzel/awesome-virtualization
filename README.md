@@ -185,6 +185,7 @@ Small enough to read in full. Many are no longer maintained and may not build on
 - [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners) - Rohan, 2017. Step-by-step VT-x samples. Unmaintained since 2017.
 - [zpp_hypervisor](https://github.com/eyalz800/zpp_hypervisor) - Eyal Z, 2019. Simple VT-x hypervisor in C++ written as a learning exercise.
 - [rustyvisor](https://github.com/iankronquist/rustyvisor) - Ian Kronquist, 2016. Early VT-x hypervisor in Rust. Unmaintained since 2022.
+- [mythril](https://github.com/mythril-hypervisor/mythril) - Type-1 VT-x hypervisor in Rust, 2019. Unmaintained since 2022.
 - [illusion-rs](https://github.com/memN0ps/illusion-rs) - UEFI blue-pill hypervisor in Rust with EPT hooks, by memN0ps. Archived.
 - [matrix-rs](https://github.com/memN0ps/matrix-rs) - Windows kernel blue-pill hypervisor in Rust, by memN0ps. Archived.
 - [HOSS](http://www.cs.unc.edu/~porter/hoss/) - Don Porter, 2014. Extends MIT's JOS teaching OS into a hypervisor, with guided lab exercises.
