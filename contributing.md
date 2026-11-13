@@ -4,7 +4,7 @@
 
 Resources for people who build, break and introspect hypervisors: CPU virtualization internals, hypervisor development, virtual machine introspection and hypervisor security.
 
-Out of scope: management platforms, desktop apps and GUIs, containers, sandboxes, CPU emulators, and frameworks built on top of an existing VMM. Suggest those to one of the [related lists](README.md#related-lists).
+Out of scope: management platforms, desktop apps and GUIs, containers that do not use hardware virtualization, sandboxes and CPU emulators. Suggest those to one of the [related lists](README.md#related-lists).
 
 ## Entry format
 
