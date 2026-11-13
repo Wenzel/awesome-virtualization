@@ -217,6 +217,7 @@ Small enough to read in full. Many are no longer maintained and may not build on
 - [Bao](https://github.com/bao-project/bao-hypervisor) - 2020. Static partitioning hypervisor for Arm and RISC-V mixed-criticality systems.
 - [ACRN](https://github.com/projectacrn/acrn-hypervisor) - Intel, 2018. Type-1 hypervisor for embedded and IoT devices.
 - [Bareflank](https://github.com/Bareflank/hypervisor) - Assured Information Security, 2015. SDK for building custom hypervisors. No commits since 2024.
+- [Boxy](https://github.com/Bareflank/boxy) - Assured Information Security, 2018. Bareflank-based hypervisor for running guest VMs, the predecessor of MicroV. Unmaintained since 2020.
 - [MicroV](https://github.com/Bareflank/MicroV) - Assured Information Security, 2020. Micro-VM hypervisor built on Bareflank. No commits since 2024.
 - [GiantVM](https://github.com/GiantVM/giantvm.github.io) - Shanghai Jiao Tong University, 2017. Distributed hypervisor that spans one VM across several hosts.
 - [napoca](https://github.com/bitdefender/napoca) - Bitdefender, 2020. Type-1 hypervisor designed to host memory introspection. Archived.
