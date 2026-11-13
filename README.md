@@ -2,7 +2,7 @@
 
 Resources for people who build, break and introspect hypervisors: CPU virtualization internals, hypervisor development, virtual machine introspection and hypervisor security.
 
-Management platforms, desktop apps, containers, sandboxes and CPU emulators are out of scope; see [Related lists](#related-lists).
+Management platforms, desktop apps, plain containers, sandboxes and CPU emulators are out of scope; see [Related lists](#related-lists).
 
 ## Contents
 
@@ -25,6 +25,7 @@ Management platforms, desktop apps, containers, sandboxes and CPU emulators are 
     - [Teaching hypervisors](#teaching-hypervisors)
     - [Special-purpose hypervisors](#special-purpose-hypervisors)
     - [Production VMMs and research hypervisors](#production-vmms-and-research-hypervisors)
+    - [MicroVMs and container isolation](#microvms-and-container-isolation)
 - [Introspection and debugging](#introspection-and-debugging)
     - [Tools](#tools)
     - [Papers and talks](#papers-and-talks)
@@ -223,6 +224,17 @@ Small enough to read in full. Many are no longer maintained and may not build on
 - [napoca](https://github.com/bitdefender/napoca) - Bitdefender, 2020. Type-1 hypervisor designed to host memory introspection. Archived.
 - [Intel HAXM](https://github.com/intel/haxm) - Intel, 2017. VT-x accelerator for QEMU on Windows and macOS. Archived.
 - [NEMU](https://github.com/intel/nemu) - Intel, 2018. Stripped-down QEMU fork, superseded by Cloud Hypervisor. Archived.
+
+### MicroVMs and container isolation
+
+Projects that put a virtualization boundary around containers and single processes. Firecracker, Cloud Hypervisor and crosvm, listed above, are the VMMs most of them build on.
+
+- [My VM is Lighter (and Safer) than your Container](https://doi.org/10.1145/3132747.3132763) - Manco et al., SOSP 2017. Shows that VMs can boot in milliseconds once the toolstack and guest are trimmed.
+- [Kata Containers](https://github.com/kata-containers/kata-containers) - 2017. Container runtime that runs each pod inside its own lightweight VM.
+- [gVisor](https://github.com/google/gvisor) - Google, 2018. Application kernel that intercepts container system calls in user space, with an optional KVM platform; a sandbox, not a hypervisor.
+- [microvm machine type](https://www.qemu.org/docs/master/system/i386/microvm.html) - QEMU. Minimal x86 machine model with virtio-mmio devices and no PCI, inspired by Firecracker.
+- [libkrun](https://github.com/libkrun/libkrun) - 2020. Library that embeds a minimal KVM or Hypervisor.framework VMM in a process, used by `crun` and Podman.
+- [go-microvm](https://github.com/stacklok/go-microvm) - Stacklok, 2026. Go framework that runs OCI container images as microVMs through libkrun.
 
 ## Introspection and debugging
 
