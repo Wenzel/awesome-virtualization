@@ -235,6 +235,7 @@ Projects that put a virtualization boundary around containers and single process
 - [microvm machine type](https://www.qemu.org/docs/master/system/i386/microvm.html) - QEMU. Minimal x86 machine model with virtio-mmio devices and no PCI, inspired by Firecracker.
 - [libkrun](https://github.com/libkrun/libkrun) - 2020. Library that embeds a minimal KVM or Hypervisor.framework VMM in a process, used by `crun` and Podman.
 - [go-microvm](https://github.com/stacklok/go-microvm) - Stacklok, 2026. Go framework that runs OCI container images as microVMs through libkrun.
+- [virtx](https://github.com/brekkylab/virtx) - Brekkylab, 2026. Library and server that boot container images as disposable libkrun microVMs on KVM, Hypervisor.framework or the Windows Hypervisor Platform.
 
 ## Introspection and debugging
 
