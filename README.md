@@ -234,6 +234,7 @@ Projects that put a virtualization boundary around containers and single process
 - [gVisor](https://github.com/google/gvisor) - Google, 2018. Application kernel that intercepts container system calls in user space, with an optional KVM platform; a sandbox, not a hypervisor.
 - [microvm machine type](https://www.qemu.org/docs/master/system/i386/microvm.html) - QEMU. Minimal x86 machine model with virtio-mmio devices and no PCI, inspired by Firecracker.
 - [libkrun](https://github.com/libkrun/libkrun) - 2020. Library that embeds a minimal KVM or Hypervisor.framework VMM in a process, used by `crun` and Podman.
+- [Goldilocks Isolation: High Performance VMs with Edera](https://arxiv.org/abs/2501.04580) - Moore and Zenla, arXiv 2025. A paravirtualized type-1 hypervisor that gives each Kubernetes pod its own VM, benchmarked against Docker for CPU, syscall, memory and startup overhead.
 - [go-microvm](https://github.com/stacklok/go-microvm) - Stacklok, 2026. Go framework that runs OCI container images as microVMs through libkrun.
 
 ## Introspection and debugging
